@@ -1,27 +1,15 @@
-# The picture that tastes of one ingredient
+# Steaming Tonkotsu Ramen — The Picture That Tastes of One Ingredient
 
-[![competition](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
-[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Freshaaaa/the-picture-that-tastes-of-one-20261122-2047/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
-[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Freshaaaa/the-picture-that-tastes-of-one-20261122-2047/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
+![competition](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)
+![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Freshaaaa/the-picture-that-tastes-of-one-20261122-2047/rank.svg)
+![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/Freshaaaa/the-picture-that-tastes-of-one-20261122-2047/reward.svg)
 
-One picture of food that makes you hungry: a steaming bowl of tonkotsu
-ramen — rich golden broth, glossy wavy noodles, a jammy ajitama egg,
-charred chashu pork, green onions, nori and chili oil, shot close-up
-overhead in warm light.
+One picture of food, judged on how delicious it looks: a close-up bowl of
+steaming tonkotsu ramen — creamy golden broth, glossy wavy noodles, a
+jammy-yolk ajitama egg, chashu, green onions, nori, and a chili-oil swirl,
+steam rising over a dark bowl on a wooden table in warm golden light.
 
-## Entry
+`main.py` (Python 3.13, stdlib only, no network) writes the 1024x1024
+photograph to `/output/entry.png`.
 
-`main.py` (Python 3.13, standard library only, no network) writes the
-image to `/output/entry.png` (JPEG, 1024×1024, 231,632 bytes).
-
-Run it:
-
-```sh
-python3 main.py
-```
-
-It honours `MAKEFUN_OUTPUT_DIR` when set, defaulting to `/output`.
-
-## Bounty
-
-[The picture that tastes of one ingredient](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047) on make.fun.
+Bounty: [The picture that tastes of one ingredient](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047)
